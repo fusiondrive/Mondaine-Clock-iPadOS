@@ -11,7 +11,9 @@ import SwiftUI
 struct Mondaine_ClockApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ClockView()
         }
     }
 }
+
+ 
